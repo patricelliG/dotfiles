@@ -1,0 +1,39 @@
+#Increase volume
+"amixer set Master 10%+"
+XF86AudioRaiseVolume
+
+#Decrease volume
+"amixer set Master 10%-"
+XF86AudioLowerVolume
+
+#Chromium
+"chromium"
+Control+Alt + c
+
+#Firefox
+"firefox"
+Control+Alt + b
+
+#Luakit
+"luakit"
+Control+Alt + l 
+
+#Spotify 
+"spotify"
+Control+Alt + s
+
+#Thunar
+"thunar"
+Control+Alt + f
+
+#Lock Screen
+"slock"
+XF86ScreenSaver
+
+#Wifi manager
+"wicd-client"
+Control+Alt + w
+
+#terminal
+"xterm"
+Mod4 + Return
